@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 - Hello world
+- error wtf
 
 ### Markdown
 
