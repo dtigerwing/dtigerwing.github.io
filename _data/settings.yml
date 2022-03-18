@@ -22,7 +22,7 @@ projects:
 
 social:  
 - {icon: 'github',    link: 'https://github.com/dtigerwing'} 
-- {icon: 'envelope',  link: 'kimdohan2@naver.com'}
+- {icon: 'envelope',  link: 'mailto:kimdohan2@naver.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
