@@ -2,30 +2,27 @@
 # General Site Settings
 
 menu:
-- {name: 'Portfolio', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: '포트폴리오', url: ''}
+- {name: '자기소개',     url: 'blog'}
+- {name: '경력',    url: 'about'}
+- {name: '연락정보',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: '캣 더 디제이',   url: 'proj-1'}
+- {name: 'Cat The DJ',   url: 'proj-1'}
 - {name: 'Voxel Car Breaker',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'LuxAf', url: 'proj-3'}
+- {name: 'HackCell',  url: 'proj-4'}
+- {name: 'Stock Manager',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
 
-social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+social:  
+- {icon: 'github',    link: 'https://github.com/dtigerwing'} 
+- {icon: 'envelope',  link: 'kimdohan2@naver.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
