@@ -64,6 +64,20 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
 
+```C#
+public void Init() {
+
+}
+
+public void Release() {
+
+}
+
+public void Refresh() {
+
+}
+```
+
 {% highlight js %}
 // Example can be run directly in your JavaScript console
 

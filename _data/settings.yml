@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'Portfolio', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
@@ -11,8 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
+- {name: '캣 더 디제이',   url: 'proj-1'}
+- {name: 'Voxel Car Breaker',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
 - {name: 'Project Five',  url: 'proj-5'}
