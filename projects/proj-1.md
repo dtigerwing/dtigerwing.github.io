@@ -1,10 +1,22 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Cat The DJ'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+언어 : C#
+운영체제 : Mac
+운영시스템 : Unity3D , 뒤끝(Backend)
+버전관리 : Bitbucket( sourcetree )
+담당업무: 클라이언트 , 서버 , 컨텐츠 개발
+업무상세:
+- UI 개발 ( UGUI )
+- 리듬노트 시스템 ( Touch , Slide , Hold )
+- 뒤끝 서버를 이용한 컨텐츠시스템 ( 인증 , 유저관리 , 푸시 , 랭킹 , 우편함 , 출석부 , 차트 등 )
+- DB 설계 ( 뒤끝 차트 , BGDatabase( UnityAsset ) ) Nosql 기반
+- 디제이 장비 기능 구현 ( 큐 , 핫큐 , 볼륨 , AudioMixer 등 )
+- 3rd-Party SDK 연동 ( 광고 , 결제 , 로컬푸시 )
+- 캐릭터 커스텀 , 인벤토리 , 컬렉션 시스템
 
-[![동영상 보기](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://www.youtube.com/watch?v=kum41bnoIIE);
+[![동영상 보기](http://img.youtube.com/vi/thp7LjfnCh0/0.jpg)](https://www.youtube.com/watch?v=thp7LjfnCh0);
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
