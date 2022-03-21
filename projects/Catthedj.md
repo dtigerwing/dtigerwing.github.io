@@ -5,8 +5,12 @@ title: 'Cat The DJ'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/thp7LjfnCh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-디제잉 초심자들도 쉽게 접근 할 수 있도록 튜토리얼, 스테이지 , 리듬액션 등으로 음악을 쉽게 믹싱 해 볼 수 있는 게임 입니다. <a href="https://play.google.com/store/apps/details?id=com.CatsByStudio.CatTheDj" target="_blank">구글플레이스토어</a>
-구글 플레이 인디 페스티벌 2020 TOP10 , 새로운 경기 게임 오디션 13회 2등, Unity MWU KR AWARD 2021 (Best Innovation)의 수상 경력
+리듬게임으로 디제잉 초심자들을 위한 디제잉 교육과 , 음악 믹싱 컨텐츠 , 노트리듬 게임 등을 할 수 있는 게임입니다. 게임결과를 통한 재화로 댄스 및 커스텀장비를 수집하여 보다 높은 점수를 노리고 다른 유저들과 랭킹을 통해 경쟁 할 수 있습니다. <a href="https://play.google.com/store/apps/details?id=com.CatsByStudio.CatTheDj" target="_blank">구글플레이스토어</a>에서 더 자세한 내용을 확인 할 수 있습니다.
+
+수상 경력   
+구글 플레이 인디 페스티벌 2020 TOP10    
+새로운 경기 게임 오디션 13회 2등    
+Unity MWU KR AWARD 2021 (Best Innovation)   
 
 언어 : C#  
 운영체제 : Mac  
