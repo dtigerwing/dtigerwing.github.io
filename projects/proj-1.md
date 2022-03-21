@@ -7,7 +7,7 @@ title: 'Cat The DJ'
 
 언어 : C#  
 운영체제 : Mac  
-운영시스템 : Unity3D , 뒤끝(Backend)  
+운영시스템 : Unity3D , 뒤끝(Backend), 파이어베이스  
 버전관리 : Bitbucket( sourcetree )  
 담당업무: 클라이언트 , 서버 , 컨텐츠 개발   
 업무상세:  
