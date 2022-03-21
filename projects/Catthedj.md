@@ -4,11 +4,7 @@ title: 'Cat The DJ'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/thp7LjfnCh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[구글플레이스토어]
-[구글플레이스토어] : https://play.google.com/store/apps/details?id=com.CatsByStudio.CatTheDj
-
-<a href="https://play.google.com/store/apps/details?id=com.CatsByStudio.CatTheDj" target="_blank">the demo</a>
+<a href="https://play.google.com/store/apps/details?id=com.CatsByStudio.CatTheDj" target="_blank">구글플레이스토어</a>
 
 언어 : C#  
 운영체제 : Mac  
