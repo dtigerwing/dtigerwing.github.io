@@ -16,7 +16,7 @@ title: 'Cat The DJ'
 - 3rd-Party SDK 연동 ( 광고 , 결제 , 로컬푸시 )
 - 캐릭터 커스텀 , 인벤토리 , 컬렉션 시스템
 
-[![동영상 보기](http://img.youtube.com/vi/thp7LjfnCh0/0.jpg)](https://www.youtube.com/watch?v=thp7LjfnCh0);
+[![동영상 보기](http://img.youtube.com/vi/thp7LjfnCh0/0.jpg)](https://www.youtube.com/watch?v=thp7LjfnCh0)
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
