@@ -11,11 +11,12 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Cat The DJ',   url: 'proj-1'}
-- {name: 'Voxel Car Breaker',   url: 'proj-2'}
-- {name: 'LuxAf', url: 'proj-3'}
-- {name: 'HackCell',  url: 'proj-4'}
-- {name: 'Stock Manager',  url: 'proj-5'}
+- {name: 'Cat The DJ',   url: 'Catthedj'}
+- {name: 'Gun Demolition',   url: 'GunDemolition'}
+- {name: 'Voxel Car Breaker',   url: 'VoxelCarBreaker'}
+- {name: 'LuxAf', url: 'LuxAf'}
+- {name: 'HackCell',  url: 'HackCell'}
+- {name: 'Stock Manager',  url: 'StockManager'}
 
 #-------------------------------
 # Contact Section
