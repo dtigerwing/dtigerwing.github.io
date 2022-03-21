@@ -30,6 +30,6 @@ title: 'Voxel Car Breaker'
 * 클라이언트
   * UI 개발 ( UGUI )  
   * 3rd-Party SDK 연동 ( 광고 , 결제 )
-  * <a herf="https://assetstore.unity.com/packages/tools/utilities/mesh-voxelizer-150233" target="_blank">Mesh Voxelizer</a>를 이용한 3D오브젝트의 메터리얼로 복셀화 작업
+  * <a href="https://assetstore.unity.com/packages/tools/utilities/mesh-voxelizer-150233" target="_blank">Mesh Voxelizer</a>를 이용한 3D오브젝트의 메터리얼로 복셀화 작업
   * 물리 엔진을 이용한 충돌     
   * 빌드 프로세스, 최적화
