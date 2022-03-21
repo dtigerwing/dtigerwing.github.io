@@ -3,6 +3,27 @@ layout: post
 title: 'Stock Manager'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+#### 게임소개
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+----------------------------
+
+실제 주식을 연동하여 유저들의 재화 및 캐릭터 꾸미기등으로 주식을 쉽고 재밌게 즐길 수 있는 게임입니다.
+
+#### 담당파트
+
+----------------------------
+
+* 버전관리
+  *  TortoisSVN  
+
+* 주요시스템
+  * Unity3D 
+* 클라이언트
+  * UI 개발 ( NGUI ) 
+  * 증권사 API를 통한 실제 매매 시스템 (매도,매수,손절가,목표가 등)
+  * 2D Animation 연출 액션(Spine)
+  * 주식 종목별 실시간 감지 기능을 통한 매매시스템 및 갱신 시스템 
+  * 빌드 프로세스, 최적화
+
+
+
