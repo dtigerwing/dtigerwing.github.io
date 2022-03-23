@@ -20,7 +20,6 @@ title: 'Cat The DJ'
 2020년 - 새로운 경기 게임 오디션 13회 2등
 2020년 - <a href = "https://www.inven.co.kr/webzine/news/?news=241524&site=indie" target="_blank">구글인디게임페스티벌2020</a> TOP10
 
-
 #### 담당파트
 
 ----------------------------
