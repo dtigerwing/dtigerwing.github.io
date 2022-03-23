@@ -15,8 +15,8 @@ title: 'Cat The DJ'
 #### 게임이력
 
 ----------------------------
-
-- 구글 플레이 인디 페스티벌 2020 TOP10
+ 
+- <a href = "https://www.inven.co.kr/webzine/news/?news=241524&site=indie" target="_blank">구글인디게임페스티벌TOP10</a>
 - 새로운 경기 게임 오디션 13회 2등
 - Unity MWU KR AWARD 2021 (Best Innovation)
 
