@@ -36,7 +36,9 @@ title: 'Cat The DJ'
   * 3rd-Party SDK 연동 ( 광고 , 결제 , 로컬푸시 ) 
   * 캐릭터 장비,댄스 장착 및 해제 ,인벤토리 , 컬렉션 시스템
   * 뒤끝 서버를 이용한 컨텐츠시스템 ( 인증 , 유저관리 , 푸시 , 랭킹 , 우편함 , 출석부 , 차트 등 ) 
+  * DB 설계 ( 뒤끝 차트 , <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740 " target="_blank">BGDatabase</a>(UnityAsset)) Nosql 기반
 * 서버
   * JWT토큰을 이용한 인증 및 로그인
-  * DB 설계 ( 뒤끝 차트 , BGDatabase( UnityAsset ) ) Nosql 기반
-  * 뒤끝 차트를 이용한 어플 및 유저 관리 
+  * 뒤끝 차트를 이용한 어플 및 유저 관리
+
+  
