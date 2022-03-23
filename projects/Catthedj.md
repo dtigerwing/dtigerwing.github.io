@@ -15,10 +15,11 @@ title: 'Cat The DJ'
 #### 게임이력
 
 ----------------------------
- 
-- <a href = "https://www.inven.co.kr/webzine/news/?news=241524&site=indie" target="_blank">구글인디게임페스티벌TOP10</a>
-- 새로운 경기 게임 오디션 13회 2등
-- Unity MWU KR AWARD 2021 (Best Innovation)
+
+2021년 - <a href = "https://www.youtube.com/watch?v=JsnHOA_Bp7Q">Unity MWU KR AWARD 2021</a> Best Innovation
+2020년 - 새로운 경기 게임 오디션 13회 2등
+2020년 - <a href = "https://www.inven.co.kr/webzine/news/?news=241524&site=indie" target="_blank">구글인디게임페스티벌2020</a> TOP10
+
 
 #### 담당파트
 

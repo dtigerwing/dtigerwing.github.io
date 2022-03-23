@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: 이력
 permalink: /about
 ---
 <!-- 
