@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about
 ---
@@ -16,6 +16,7 @@ permalink: /about
 | 2017.11 ~ 2018.02 | [111%](https://www.111percent.net/) 클라이언트 개발자 취업   | [HackCell](https://dtigerwing.github.io/projects/HackCell) 개발 |
 | 2018.04 ~ 2018.12 | 크레이프로덕션스 클라이언트 개발자 취업                      | [LuxAf](https://dtigerwing.github.io/projects/LuxAf) 개발    |
 | 2019.04 ~ 2022.03 | [캐츠바이스튜디오](https://catsbystudio.com/) 클라이언트 개발자 취업 | [Cat The DJ](https://dtigerwing.github.io/projects/Catthedj) 개발 |
+
 
 
 2019.04 ~ 2022.03 - <a href="https://catsbystudio.com/" target="_blank">캐츠바이스튜디오(BackEnd)</a> 클라이언트 개발자 취업
