@@ -3,9 +3,9 @@
 
 menu:
 - {name: '포트폴리오', url: ''}
-- {name: '자기소개',     url: 'blog'}
+# - {name: '자기소개',     url: 'blog'}
 - {name: '소개',    url: 'about'}
-- {name: '연락정보',  url: 'contact'}
+# - {name: '연락정보',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
