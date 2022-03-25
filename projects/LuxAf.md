@@ -16,6 +16,9 @@ title: 'LuxAf'
 
 ----------------------------
 
+
+* 개발인원
+  * 9인
 * 버전관리
   *  Bitbucket( sourcetree )  
 

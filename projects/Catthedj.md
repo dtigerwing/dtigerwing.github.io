@@ -18,20 +18,21 @@ title: 'Cat The DJ'
 
 2021년 - <a href = "https://www.youtube.com/watch?v=JsnHOA_Bp7Q?start=18" target="_blank">Unity MWU KR AWARD 2021</a> Best Innovation    
 2020년 - 새로운 경기 게임 오디션 13회 2등   
-2020년 - <a href = "https://www.inven.co.kr/webzine/news/?news=241524&site=indie" target="_blank">구글인디게임페스티벌2020</a> TOP10    
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JsnHOA_Bp7Q?start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+2020년 - <a href = "https://www.inven.co.kr/webzine/news/?news=241524&site=indie" target="_blank">구글인디게임페스티벌2020</a> TOP10
 
 #### 담당파트
 
 ----------------------------
 
+
+* 개발인원
+  * 4인
 * 버전관리
   *  Bitbucket( sourcetree )  
-
 * 주요시스템
   * Unity3D , <a href="https://www.thebackend.io/" target="_blank">뒤끝(BackEnd)</a> , 파이어베이스
 * 클라이언트
+  * 메인 클라이언트 프로그래밍 담당
   * UI 개발 ( UGUI )  
   * 리듬노트 시스템 ( Touch , Slide , Hold )  
   * 디제이 장비 기능 구현 ( 큐 , 핫큐 , 볼륨 , AudioMixer 등 )  

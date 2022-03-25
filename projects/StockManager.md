@@ -17,7 +17,7 @@ title: 'Stock Manager'
 * 개발인원
   * 4인(클라이언트 1인)
 * 버전관리
-  *  TortoisSVN  
+  * TortoisSVN  
 * 주요시스템
   * Unity3D 
 * 클라이언트

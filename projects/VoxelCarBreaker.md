@@ -22,9 +22,11 @@ title: 'Voxel Car Breaker'
 
 ----------------------------
 
+
+* 개발인원
+  * 1인
 * 버전관리
   *  Bitbucket( sourcetree )  
-
 * 주요시스템
   * Unity3D 
 * 클라이언트
