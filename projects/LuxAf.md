@@ -22,7 +22,7 @@ title: 'LuxAf'
 * 주요시스템
   * Unity3D , 파이어베이스
 * 클라이언트
-  * UI 개발 ( UGUI )  
+  * UI 개발 ( UGUI )
   * Firebase RTDB를 이용한 컨텐츠시스템 ( 친구관리 ( 추가,삭제,구독 ) , 우편함 , 업적 , 출석부 등)
-  * Photon 룸 매칭 시스템
+  * Photon Room 1:1 매칭 컨텐츠
   * 캐릭터와 오브젝트간의 인터렉션 시스템
