@@ -33,11 +33,11 @@ title: 'Cat The DJ'
 * 개발언어
   * C#
 * 상세업무
-  * UI/UX 시스템 작업 
-		* UGUI를 활용한 UI 개발
-		* UI 타입 별 상태변화에 따른 캔버스 관리 매니저 작업
-		* 담당 컨텐츠 진행 시 필요한 UI/UX 시스템 작업
-	* 터치 조작 시스템 작업
+  * UI/UX 시스템 작업
+    * UGUI를 활용한 UI 개발
+    * UI 타입 별 상태변화에 따른 캔버스 관리 매니저 작업
+    * 담당 컨텐츠 진행 시 필요한 UI/UX 시스템 작업
+  * 터치 조작 시스템 작업
 		* <a href="https://assetstore.unity.com/packages/tools/input-management/touchscript-7394" target="_blank">TouchScript</a>(UnityAsset)을 이용한 터치 조작 시스템 개발
 	* 리듬노트 시스템
 		* 터치, 슬라이드, 홀드의 리듬노트 인터렉션 개발
