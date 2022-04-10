@@ -25,7 +25,7 @@ title: 'Cat The DJ'
 ----------------------------
 
 * 개발기간
-  * 2019-04 ~ 2022-02
+  * 2019-04 ~ 2022-02 (약 2년 10개월)
 * 개발인원
   * 4인 (클라이언트 2인)
 * 개발환경
@@ -39,7 +39,7 @@ title: 'Cat The DJ'
 		* 담당 컨텐츠 진행 시 필요한 UI/UX 시스템 작업
 	
 	* 터치 조작 시스템 작업
-		* <a href="https://assetstore.unity.com/packages/tools/input-management/touchscript-7394" target="_blank">TouchScript(UnityAsset)</a>을 이용한 터치 조작 시스템 개발
+		* <a href="https://assetstore.unity.com/packages/tools/input-management/touchscript-7394" target="_blank">TouchScript</a>(UnityAsset)을 이용한 터치 조작 시스템 개발
 	
 	* 리듬노트 시스템
 		* 터치, 슬라이드, 홀드의 리듬노트 인터렉션 개발
@@ -53,7 +53,7 @@ title: 'Cat The DJ'
 	
 	* 디제이 장비 기능 구현 
 		* 실제 디제잉 장비 기능을 구현 ( 큐, 핫큐, 볼륨, 피치, 조그 등)
-		* AudioMixer 기능을 이용하여 개발
+		* Unity AudioMixer, FMOD를 이용하여 개발
 
 	* 서드파티 연동 작업
 		* SDK를 이용한 광고, 결제, 푸시 등 을 개발
