@@ -30,8 +30,8 @@ title: 'Voxel Car Breaker'
   * Unity3D,Bitbucket(sourcetree)
 * 상세업무
   * UI/UX 시스템 작업 
-		* UGUI를 활용한 UI 개발
-		* UI 타입 별 상태변화에 따른 캔버스 관리 매니저 작업
+    * UGUI를 활용한 UI 개발
+    * UI 타입 별 상태변화에 따른 캔버스 관리 매니저 작업
 
   * 서드파티 연동 작업
 		* SDK를 이용한 광고, 결제, 푸시 등 을 개발
@@ -44,7 +44,6 @@ title: 'Voxel Car Breaker'
     * Collider 충돌 이벤트 시스템 개발
 
 	* 최적화 및 리팩토링
-  
 
 <!--   
 * 버전관리
