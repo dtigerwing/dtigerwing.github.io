@@ -29,7 +29,7 @@ title: 'Voxel Car Breaker'
   * 1인
 
 * 개발환경
-  * Unity3D,Bitbucket(sourcetree)
+  * Unity3D, Bitbucket(sourcetree)
 
 * 상세업무
   * UI/UX 시스템 작업 
@@ -45,5 +45,5 @@ title: 'Voxel Car Breaker'
   * 미사일 충돌 이벤트
     * 각 미사일 형태에 따른 시스템 개발
     * Collider 충돌 이벤트 시스템 개발
-
-	* 최적화 및 리팩토링
+    
+  * 최적화 및 리팩토링
