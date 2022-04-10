@@ -51,19 +51,19 @@ title: 'Cat The DJ'
   * 뒤끝 서버를 이용한 시스템 개발
     * 뒤끝 콘솔 세팅
     * 푸시, 랭킹, 우편함, 출석부, 차트 시스템 개발
-
-	* DB 관리
-		* 뒤끝 차트, <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740 " target="_blank">BGDatabase</a>(UnityAsset) Nosql 를 이용한 DB 관리 및 설계
-	
-  * 디제이 장비 기능 구현 
-		* 실제 디제잉 장비 기능을 구현 ( 큐, 핫큐, 볼륨, 피치, 조그 등)
-		* Unity AudioMixer, FMOD를 이용하여 개발
-	
+    
+  * DB 관리
+    * 뒤끝 차트, <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740 " target="_blank">BGDatabase</a>(UnityAsset) Nosql 를 이용한 DB 관리 및 설계
+    
+  * 디제이 장비 기능 구현
+    * 실제 디제잉 장비 기능을 구현 ( 큐, 핫큐, 볼륨, 피치, 조그 등)
+    * Unity AudioMixer, FMOD를 이용하여 개발
+    
   * 서드파티 연동 작업
 		* SDK를 이용한 광고, 결제, 푸시 등 을 개발
-	
+    
   * 컨텐츠 시스템 개발
-		* 디제잉 장비 교육 시스템 개발
+    * 디제잉 장비 교육 시스템 개발
 		* 수집 장비 컬렉션 시스템 개발
 	
   * 캐릭터 관련 작업
