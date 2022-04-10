@@ -31,7 +31,7 @@ title: 'Cat The DJ'
   * 4인 (클라이언트 2인)
 
 * 개발환경
-  * Unity3D,Bitbucket(sourcetree),<a href="https://www.thebackend.io/" target="_blank">뒤끝(BackEnd)</a>,MacOS
+  * Unity3D, Bitbucket(sourcetree), <a href="https://www.thebackend.io/" target="_blank">뒤끝(BackEnd)</a>, MacOS
 
 * 개발언어
   * C#
@@ -53,7 +53,7 @@ title: 'Cat The DJ'
     * 푸시, 랭킹, 우편함, 출석부, 차트 시스템 개발
     
   * DB 관리
-    * 뒤끝 차트, <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740 " target="_blank">BGDatabase</a>(UnityAsset) Nosql 를 이용한 DB 관리 및 설계
+    * 뒤끝 차트, <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740 " target="_blank">BGDatabase</a2 >(UnityAsset) Nosql 를 이용한 DB 관리 및 설계
     
   * 디제이 장비 기능 구현
     * 실제 디제잉 장비 기능을 구현 ( 큐, 핫큐, 볼륨, 피치, 조그 등)
@@ -68,7 +68,7 @@ title: 'Cat The DJ'
 	
   * 캐릭터 관련 작업
     * 아이템 장착 및 해제 기능
-		* 캐릭터 댄스 모션 기능
+    * 캐릭터 댄스 모션 기능
     * 게임 진행 시 음악에 맞춰 댄스를 출 수 있게 Timeline을 이용한 연동 및 툴 제공
 	
   * 최적화 및 리팩토링
