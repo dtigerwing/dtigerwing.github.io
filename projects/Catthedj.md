@@ -67,24 +67,8 @@ title: 'Cat The DJ'
     * 수집 장비 컬렉션 시스템 개발
 	
   * 캐릭터 관련 작업
-    * 아이템 장착 및 해제 기능
-    * 캐릭터 댄스 모션 기능
+    * 아이템 장착 및 해제 시스템 개발
+    * 캐릭터 휴먼노이드 애니메이션을 이용한 애니메이션 제어 시스템 개발
     * 게임 진행 시 음악에 맞춰 댄스를 출 수 있게 Timeline을 이용한 연동 및 툴 제공
 	
   * 최적화 및 리팩토링
-
-  <!--  
-  * 메인 클라이언트 프로그래밍 담당
-  * UI 개발 ( UGUI )  
-  * 리듬노트 시스템 ( Touch , Slide , Hold )  
-  * 디제이 장비 기능 구현 ( 큐 , 핫큐 , 볼륨 , AudioMixer 등 )  
-  * 3rd-Party SDK 연동 ( 광고 , 결제 , 로컬푸시 ) 
-  * 캐릭터 장비,댄스 장착 및 해제 ,인벤토리 , 컬렉션 시스템
-  * 뒤끝 서버를 이용한 컨텐츠시스템 ( 인증 , 유저관리 , 푸시 , 랭킹 , 우편함 , 출석부 , 차트 등 ) 
-  * DB 설계 ( 뒤끝 차트 , <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740 " target="_blank">BGDatabase</a>(UnityAsset)) Nosql 기반
-  * 서버
-  * JWT토큰을 이용한 인증 및 로그인
-  * 뒤끝 차트를 이용한 어플 및 유저 관리
-  -->
-
-  
