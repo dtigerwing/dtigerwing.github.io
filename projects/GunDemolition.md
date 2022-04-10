@@ -29,16 +29,16 @@ title: 'Gun Demolition'
   * C#
 
 * 상세업무
- * UI/UX 시스템 작업 
-		* UGUI를 활용한 UI 개발
-		* UI 타입 별 상태변화에 따른 캔버스 관리 매니저 작업
-
-	* 서드파티 연동 작업
+  * UI/UX 시스템 작업
+    * UGUI를 활용한 UI 개발
+    * UI 타입 별 상태변화에 따른 캔버스 관리 매니저 작업
+  
+  * 서드파티 연동 작업
     * SDK를 이용한 광고, 결제, 푸시 등 을 개발
     
   * 오브젝트 충돌 및 메쉬 파괴 시스템
     * <a href="https://assetstore.unity.com/packages/tools/game-toolkits/rayfire-for-unity-148690" target="_blank">RayFire</a>(UnityAsset)을 이용한 오브젝트 파괴 및 에셋 커스텀화 작업
-  
+    
   * 최적화 및 리팩토링
 
   
