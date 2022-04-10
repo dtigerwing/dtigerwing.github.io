@@ -26,7 +26,7 @@ title: 'Stock Manager'
   * C#
 
 * 상세업무
-	* UI/UX 시스템 작업
+  * UI/UX 시스템 작업
     * NGUI를 활용한 UI 개발
     * 담당 컨텐츠 진행 시 필요한 UI/UX 시스템 작업
     
