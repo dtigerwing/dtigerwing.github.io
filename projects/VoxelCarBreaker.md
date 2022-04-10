@@ -40,7 +40,7 @@ title: 'Voxel Car Breaker'
     * SDK를 이용한 광고, 결제, 푸시 등 을 개발
     
   * 오브젝트 메쉬 복셀화
-    * <a href="https://assetstore.unity.com/packages/tools/utilities/mesh-voxelizer-150233" target="_blank">Mesh Voxelizer</a>를 이용한 3D오브젝트의 메터리얼로 복셀화 작업
+    * <a href="https://assetstore.unity.com/packages/tools/utilities/mesh-voxelizer-150233" target="_blank">Mesh Voxelizer</a>를 이용한 복셀화 변환 시스템 개발
   
   * 미사일 충돌 이벤트
     * 각 미사일 형태에 따른 시스템 개발
