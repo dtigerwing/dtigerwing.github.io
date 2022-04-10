@@ -53,7 +53,7 @@ title: 'Cat The DJ'
     * 푸시, 랭킹, 우편함, 출석부, 차트 시스템 개발
     
   * DB 관리
-    * 뒤끝 차트, <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740"target="_blank">BGDatabase</a>(UnityAsset) Nosql 를 이용한 DB 관리 및 설계
+    * 뒤끝 차트, <a href="https://assetstore.unity.com/packages/tools/localization/bg-localization-114740" target="_blank">BGDatabase</a>(UnityAsset) Nosql를 이용한 DB 관리 및 설계
     
   * 디제이 장비 기능 구현
     * 실제 디제잉 장비 기능을 구현 ( 큐, 핫큐, 볼륨, 피치, 조그 등)
