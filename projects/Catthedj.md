@@ -26,12 +26,16 @@ title: 'Cat The DJ'
 
 * 개발기간
   * 2019-04 ~ 2022-02 (약 2년 10개월)
+
 * 개발인원
   * 4인 (클라이언트 2인)
+
 * 개발환경
   * Unity3D,Bitbucket(sourcetree),<a href="https://www.thebackend.io/" target="_blank">뒤끝(BackEnd)</a>,MacOS
+
 * 개발언어
   * C#
+  
 * 상세업무
   * UI/UX 시스템 작업
     * UGUI를 활용한 UI 개발
