@@ -37,10 +37,4 @@ title: 'Gun Demolition'
 
 	  * 최적화 및 리팩토링
 
-  <!-- * UI 개발 ( UGUI )  
-  * 3rd-Party SDK 연동 ( 광고 , 결제 )
-  * <a href="https://assetstore.unity.com/packages/tools/game-toolkits/rayfire-for-unity-148690" target="_blank">RayFire</a>(UnityAsset)을 이용한 오브젝트 파괴 및 에셋 커스텀
-  * 물리 엔진을 이용한 충돌     
-  * 빌드 프로세스, 최적화 -->
-
   

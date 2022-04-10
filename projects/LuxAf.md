@@ -48,15 +48,3 @@ title: 'LuxAf'
     * <a href = "https://assetstore.unity.com/packages/tools/integration/easy-mobile-pro-75476" target="_blank">EasyMobilePro</a>(UnityAsset)을 이용하여 개발
 
 	* 최적화 및 리팩토링
-
-<!-- * 개발인원
-  * 9인
-* 버전관리
-  *  Bitbucket( sourcetree )
-* 주요시스템
-  * Unity3D , 파이어베이스
-* 클라이언트
-  * UI 개발 ( UGUI )
-  * Firebase RTDB를 이용한 컨텐츠시스템 ( 친구관리 ( 추가,삭제,구독 ) , 우편함 , 업적 , 출석부 등)
-  * Photon Room 1:1 매칭 컨텐츠
-  * 캐릭터와 오브젝트간의 인터렉션 시스템 -->
